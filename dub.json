@@ -1,0 +1,9 @@
+{
+	"name": "evold",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2014, lisri",
+	"authors": ["lisri"],
+	"license": "MIT",
+	"dependencies": {
+	}
+}
